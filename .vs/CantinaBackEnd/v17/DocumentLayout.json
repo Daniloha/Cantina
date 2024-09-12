@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\repositories\\generic\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\models\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\models\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\context\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\business\\businessimplementations\\funcionariobusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\business\\businessimplementations\\funcionariobusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\business\\ifuncionariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\business\\ifuncionariobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\data\\dtoimplementations\\funcionarioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\data\\dtoimplementations\\funcionarioconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\data\\dto\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\data\\dto\\funcionariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\data\\dtoimplementations\\caixaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\data\\dtoimplementations\\caixaconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|c:\\users\\nilo_\\onedrive\\desktop\\projetos\\.net\\cantina\\cantinabackend\\cantinabackend\\cantinabackend\\data\\dto\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B629DE-F25B-4BA3-ADBB-3AF4BD449592}|CantinaBackEnd\\CantinaBackEnd.csproj|solutionrelative:cantinabackend\\data\\dto\\caixadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MySQLContext.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Context\\MySQLContext.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Context\\MySQLContext.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Context\\MySQLContext.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Context\\MySQLContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:01:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Program.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:15:06.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Repositories\\Generic\\IRepository.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Repositories\\Generic\\IRepository.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Repositories\\Generic\\IRepository.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Repositories\\Generic\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:17:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Models\\Base\\BaseModel.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Models\\Base\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Models\\Base\\BaseModel.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Models\\Base\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:09:26.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Models\\Funcionario.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Models\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Models\\Funcionario.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Models\\Funcionario.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:10:01.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\appsettings.json",
+              "RelativeToolTip": "CantinaBackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T00:02:43.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FuncionarioBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Business\\BusinessImplementations\\FuncionarioBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Business\\BusinessImplementations\\FuncionarioBusinessImplementation.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Business\\BusinessImplementations\\FuncionarioBusinessImplementation.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Business\\BusinessImplementations\\FuncionarioBusinessImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:25:13.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFuncionarioBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Business\\IFuncionarioBusiness.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Business\\IFuncionarioBusiness.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Business\\IFuncionarioBusiness.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Business\\IFuncionarioBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T23:21:01.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:20:43.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FuncionarioConverter.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTOImplementations\\FuncionarioConverter.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Data\\DTOImplementations\\FuncionarioConverter.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTOImplementations\\FuncionarioConverter.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Data\\DTOImplementations\\FuncionarioConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:15:19.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FuncionarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTO\\FuncionarioDTO.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Data\\DTO\\FuncionarioDTO.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTO\\FuncionarioDTO.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Data\\DTO\\FuncionarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T21:14:16.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CaixaConverter.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTOImplementations\\CaixaConverter.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Data\\DTOImplementations\\CaixaConverter.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTOImplementations\\CaixaConverter.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Data\\DTOImplementations\\CaixaConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:01:45.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CaixaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTO\\CaixaDTO.cs",
+              "RelativeDocumentMoniker": "CantinaBackEnd\\Data\\DTO\\CaixaDTO.cs",
+              "ToolTip": "C:\\Users\\nilo_\\OneDrive\\Desktop\\Projetos\\.Net\\Cantina\\CantinaBackend\\CantinaBackEnd\\CantinaBackEnd\\Data\\DTO\\CaixaDTO.cs",
+              "RelativeToolTip": "CantinaBackEnd\\Data\\DTO\\CaixaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T20:01:06.782Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

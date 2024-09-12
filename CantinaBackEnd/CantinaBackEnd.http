@@ -1,0 +1,6 @@
+@CantinaBackEnd_HostAddress = http://localhost:5115
+
+GET {{CantinaBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
